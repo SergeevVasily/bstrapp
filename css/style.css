@@ -1,9 +1,9 @@
 .block{
-    background: darkgray;
-    border: 1px solid #0b2e13;
-}
+     background: darkgray;
+     border: 1px solid #0b2e13;
+ }
 hr{
-   border-color: white;
+    border-color: white;
 }
 p{
     background-color: whitesmoke;
